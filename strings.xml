@@ -3,4 +3,5 @@
     <string name="enter_number_hint">Enter a number (1–25)</string>
     <string name="submit_button_text">Submit</string>
     <string name="error_message">Please enter a number between 1 and 25.</string>
+    <string name=back_to_main">Back to Main</string>
 </resources>
